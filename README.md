@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jonathan Lazarillo
 
-📊 Recién egresado de un bootcamp en Análisis de Datos con habilidades en:
+📊 Recién egresado de bootcamp de Triple Ten en Análisis de Datos con habilidades en:
 - SQL para consultas y análisis de bases de datos.
 - Excel para dashboards y análisis financiero.
 - Power BI para visualización de datos.
